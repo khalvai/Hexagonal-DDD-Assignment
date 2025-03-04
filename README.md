@@ -1,1 +1,1 @@
-assignment project for demonstrating skills
+An assignment project for skill demonstration.
